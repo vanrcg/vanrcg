@@ -27,4 +27,4 @@ Design-engineered full-stack developer and agentic workflow builder. I bridge vi
 
 ---
 
-IT student open to engineering roles and collaborations. [Portfolio](vanrcg.tech) · [Email](mailto:markyvan24@gmail.com)
+IT student open to engineering roles and collaborations. [Portfolio](https://vanrcg.tech) · [Email](mailto:markyvan24@gmail.com)
