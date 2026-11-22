@@ -1,4 +1,4 @@
-# Mark Ivan (Van)
+# Van
 
 Design-engineered full-stack developer and agentic workflow builder. I bridge visual design systems with pragmatic software engineering, using custom multi-agent pipelines to ship production applications with strict code and UI discipline.
 
