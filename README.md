@@ -7,7 +7,7 @@ Design-engineered full-stack developer and agentic workflow builder. I bridge vi
 | System | Scope | Core Stack |
 | :--- | :--- | :--- |
 | **KJE Store Management & E-Kiosk** | Full-stack retail POS, inventory control, charge invoicing, scheduled deliveries, and commerce platform | TypeScript, React, Node.js, PayMongo, Cloudflare R2 |
-| **Roots2Restaurant** | B2B agricultural marketplace with real-time order-in-chat, atomic stock deduction, POS checkout, and AI kitchen assistant | Next.js, TypeScript, Supabase, PayMongo, Gemini API |
+<!-- | **Roots2Restaurant** | B2B agricultural marketplace with real-time order-in-chat, atomic stock deduction, POS checkout, and AI kitchen assistant | Next.js, TypeScript, Supabase, PayMongo, Gemini API |-->
 | **vanPf** | Monochromatic Swiss-minimalist engineering portfolio powered by a custom zero-dependency WebGL2 topographic contour shader | TypeScript, React, WebGL2, GLSL, Tailwind CSS |
 | **Autonomous Agent Pipeline & Second Brain** | Custom multi-agent finalizer CLI, anti-AI-slop linter, lifecycle hooks, and structured PARA/ADR engineering memory | Node.js, Antigravity IDE, MCP, Obsidian |
 
