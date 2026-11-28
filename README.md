@@ -16,7 +16,7 @@ I bridge Swiss-minimalist visual design systems with pragmatic software engineer
 | :--- | :--- | :--- |
 | **KJE Store Management & E-Kiosk** | Multi-app retail POS, shift Z-reading audits, inventory control, B2B charge invoicing & Credit PINs, regional truck logistics, and e-commerce storefront | `Next.js 15`, `TypeScript`, `Prisma`, `PostgreSQL`, `Turborepo`, `HitPay` / `Xendit` / `PayMongo`, `Cloudflare R2`, `Heroku` |
 | **vanPf** | Monochromatic Swiss-minimalist engineering portfolio powered by a custom zero-dependency WebGL2 topographic contour shader | `TypeScript`, `React`, `WebGL2`, `GLSL`, `Tailwind CSS` |
-| **Autonomous Agent Pipeline & Second Brain** | Custom multi-agent finalizer CLI, anti-AI-slop UI linter, lifecycle hooks, and structured PARA/ADR engineering memory | `Node.js`, `Antigravity IDE`, `MCP`, `Obsidian` |
+| **Autonomous Agent Pipeline & Second Brain** | Custom multi-agent finalizer CLI, anti-AI-slop UI linter, lifecycle hooks, and structured PARA/ADR engineering memory | `Node.js`, `Antigravity IDE`, `Cursor IDE`, `MCP`, `Obsidian` |
 <!-- | **Roots2Restaurant** | B2B agricultural marketplace with real-time order-in-chat, atomic stock deduction, POS checkout, and AI kitchen assistant | `Next.js`, `TypeScript`, `Supabase`, `PayMongo`, `Gemini API` |-->
 
 ---
@@ -64,6 +64,7 @@ flowchart LR
 
 **Agentic, Knowledge & Design**  
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-334155?style=flat-square)
+![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-334155?style=flat-square)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-334155?style=flat-square&logo=googlegemini&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Servers-334155?style=flat-square)
 ![Obsidian](https://img.shields.io/badge/Obsidian-334155?style=flat-square&logo=obsidian&logoColor=white)
