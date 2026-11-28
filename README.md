@@ -24,11 +24,12 @@ I bridge Swiss-minimalist visual design systems with pragmatic software engineer
 ## How I Build with Agents
 
 ```mermaid
+%%{init: {'flowchart': {'padding': 18, 'nodeSpacing': 28, 'rankSpacing': 38}}}%%
 flowchart LR
-    A["1. Investigate<br/>Read & Map"] --> B["2. Spec / Align<br/>ADRs & Trade-offs"]
-    B --> C["3. Build<br/>Scoped Subagents"]
-    C --> D["4. Review<br/>Typecheck & UI Gates"]
-    D --> E["5. Ship & Log<br/>Commit + Obsidian MOC"]
+    A["1. Investigate<br/>Read & Map"] --> B["2. Align<br/>ADRs & Spec"]
+    B --> C["3. Build<br/>Subagents"]
+    C --> D["4. Review<br/>Type & UI Gates"]
+    D --> E["5. Ship<br/>Commit & Log"]
 ```
 
 - **Spec-First Alignment**: Resolve branching architectural and UX decisions interactively before writing code, documenting trade-offs as Architecture Decision Records (ADRs).
